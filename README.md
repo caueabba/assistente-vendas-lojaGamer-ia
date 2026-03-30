@@ -94,3 +94,47 @@ Ao receber o **interesse do cliente**, o assistente deve:
 ```text
 Interesse: o cliente quer um notebook para estudar e jogar à noite.  
 Interesse: quero deixar o setup mais bonito.  
+
+## 📊 Exemplo de Resposta (A → G)
+
+**Interesse do cliente:**  
+"Quero deixar meu setup mais bonito."
+
+---
+
+### A - Leitura do interesse
+Cliente busca estética no setup → indica foco em decoração e periféricos visuais.  
+
+### B - Diagnóstico de oportunidade
+- Classificação: **Low ticket provável**  
+- Motivo: não mencionou desempenho ou jogos, apenas estética.  
+- O que falta descobrir: orçamento, estilo preferido (RGB, minimalista, temático), se já possui periféricos básicos.  
+
+### C - Perguntas de qualificação
+1. Você prefere estilo RGB colorido ou algo mais minimalista?  
+2. Já tem teclado e mouse gamer ou gostaria de trocar também?  
+3. Quer incluir enfeites temáticos (ex.: personagens, luzes)?  
+4. Qual faixa de orçamento você imagina para o setup?  
+5. Está montando para uso pessoal ou presente?  
+
+### D - Oferta principal recomendada
+- **Produto**: Kit de decorações gamer (luzes RGB + suportes temáticos).  
+- **Por que faz sentido**: resolve a dor estética, deixando o setup mais atraente.  
+- **Apresentação em 1 frase**: "Esse kit vai transformar seu setup em um ambiente gamer estiloso e único."  
+
+### E - Oferta complementar (cross-sell)
+- **Teclado gamer RGB** → completa a estética com iluminação sincronizada.  
+- **Mouse gamer com LED** → reforça o visual e melhora a experiência.  
+- **Headset com iluminação lateral** → estética + funcionalidade.  
+
+### F - Estratégia de ancoragem
+- **Opção 1 (bom/ótimo/premium):**  
+  - Bom: enfeites simples (suportes, figuras).  
+  - Ótimo: kit RGB com periféricos básicos.  
+  - Premium: setup completo com teclado, mouse e headset iluminados.  
+- **Opção 2 (custo-benefício vs. performance):**  
+  - Custo-benefício: decorações e periféricos básicos para estética.  
+  - Performance: periféricos gamer iluminados que unem beleza + funcionalidade.  
+
+### G - Fecho da conversa
+"Me diga a faixa de orçamento e 1-2 preferências de estilo para eu refinar a oferta."
