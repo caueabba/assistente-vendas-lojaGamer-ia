@@ -1,0 +1,1 @@
+# assistente-vendas-lojaGamer-ia
